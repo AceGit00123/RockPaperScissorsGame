@@ -62,14 +62,14 @@ scissors.png
 
 ### 5. Run the Game
 
-🧩 Code Structure
+## 🧩 Code Structure
 File	Description
 RockPaperScissors.java	Main game file containing GUI setup, logic, and event handling
 rock.png	Rock icon for Rock button
 paper.png	Paper icon for Paper button
 scissors.png	Scissors icon for Scissors button
 
-🪄 Example Gameplay
+## 🪄 Example Gameplay
 
 Your Choice: Paper
 Computer's Choice: Rock
@@ -81,7 +81,7 @@ When either score reaches 5:
 You win the game! 🏆
 Do you want to play again?
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Java Swing — GUI framework
 
@@ -89,7 +89,7 @@ AWT — Layout management and event handling
 
 Java Random — For computer move generation
 
-📈 Possible Improvements
+## 📈 Possible Improvements
 
 Add sound effects for clicks and wins
 
@@ -107,4 +107,5 @@ Use emojis instead of image icons (for portability)
 ---
 
 ## 🪪 License
+
 This project is open-source and free to use for educational purposes.
